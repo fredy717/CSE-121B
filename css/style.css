@@ -77,6 +77,16 @@ main {
     font-size: 1.2em;
 }
 
+.up a:hover {
+    color: #ffffff;
+    font-weight: 300;
+}
+
+.active {
+    color: #ffffff;
+    font-weight: 300;
+}
+
 .logo {
     width: 200px;
     margin: auto;
